@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5759e327.chunk.css",
-    "main.js": "/static/js/main.19c35452.chunk.js",
-    "main.js.map": "/static/js/main.19c35452.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9c3eadd6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9c3eadd6.js.map",
-    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.dddd4761.chunk.js": "/static/js/2.dddd4761.chunk.js",
-    "static/js/2.dddd4761.chunk.js.map": "/static/js/2.dddd4761.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.5759e327.chunk.css.map": "/static/css/main.5759e327.chunk.css.map",
-    "static/js/2.dddd4761.chunk.js.LICENSE.txt": "/static/js/2.dddd4761.chunk.js.LICENSE.txt",
-    "static/media/spinner.09b325e5.svg": "/static/media/spinner.09b325e5.svg",
-    "static/media/weather-icons-wind.min.css": "/static/media/weathericons-regular-webfont.e218aee6.woff2"
+    "main.css": "/weatherapp/static/css/main.1a21c0e1.chunk.css",
+    "main.js": "/weatherapp/static/js/main.19c35452.chunk.js",
+    "main.js.map": "/weatherapp/static/js/main.19c35452.chunk.js.map",
+    "runtime-main.js": "/weatherapp/static/js/runtime-main.00930b07.js",
+    "runtime-main.js.map": "/weatherapp/static/js/runtime-main.00930b07.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/weatherapp/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.dddd4761.chunk.js": "/weatherapp/static/js/2.dddd4761.chunk.js",
+    "static/js/2.dddd4761.chunk.js.map": "/weatherapp/static/js/2.dddd4761.chunk.js.map",
+    "index.html": "/weatherapp/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/weatherapp/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.1a21c0e1.chunk.css.map": "/weatherapp/static/css/main.1a21c0e1.chunk.css.map",
+    "static/js/2.dddd4761.chunk.js.LICENSE.txt": "/weatherapp/static/js/2.dddd4761.chunk.js.LICENSE.txt",
+    "static/media/spinner.09b325e5.svg": "/weatherapp/static/media/spinner.09b325e5.svg",
+    "static/media/weather-icons-wind.min.css": "/weatherapp/static/media/weathericons-regular-webfont.e218aee6.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c3eadd6.js",
+    "static/js/runtime-main.00930b07.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.dddd4761.chunk.js",
-    "static/css/main.5759e327.chunk.css",
+    "static/css/main.1a21c0e1.chunk.css",
     "static/js/main.19c35452.chunk.js"
   ]
 }
